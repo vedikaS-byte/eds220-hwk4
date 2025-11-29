@@ -29,6 +29,9 @@ The data utilized in this analysis is not housed in this repository. The streaml
 
 The second dataset consists of geospatial layers containing dissolved fire perimeters for the Eaton and Palisades Fires, provided as shapefiles and downloaded from [County of Los Angeles Enterprise GIS](https://egis-lacounty.hub.arcgis.com/maps/ad51845ea5fb4eb483bc2a7c38b2370c/about). It is noted in the data summary that the original NIFC FIRIS fire service contained daily captures of fire perimeters and were thus dissolved from boundary polygons to create a single fire burn perimeter for each fire (County of Los Angeles, 2025).
 
+## Contributors
+This repository is maintained by Vedika Shirtekar as part of the Master of Environmental Data Science program at UC Santa Barbara. This work was completed for the **EDS 220: Working with Environmental Datasets** course at the Bren School of Environmental Science and Management, which provided data access and documentation practices, as well as assignment instructions.
+
 
 ## References
 [1] Bren School of Environmental Science and Management. (2025). *landsat8-2025-02-23-palisades-eaton.nc* [Dataset]. Accessed November 20, 2025, from https://drive.google.com/drive/u/1/folders/1USqhiMLyN8GE05B8WJmHabviJGnmAsLP
@@ -38,16 +41,21 @@ The second dataset consists of geospatial layers containing dissolved fire perim
 https://egis-lacounty.hub.arcgis.com/maps/ad51845ea5fb4eb483bc2a7c38b2370c/about
 
 
-[3] Microsoft Planetary Computer. (n.d.). *Landsat Collection 2 Level-2*. Accessed November 20, 2025, from https://planetarycomputer.microsoft.com/dataset/landsat-c2-l2
+[3] EDS 220. (n.d.). *Working with Environmental Datasets*. Bren School of Environmental Science and Management. Accessed November 29, 2025, from 
+https://meds-eds-220.github.io/MEDS-eds-220-course/
 
 
-[4] NASA Earth Observatory. (2025, January 16) *The Palisades Fire’s Footprint.*. NASA Earth Observatory. Accessed November 21, 2025, from, 
+[4] Microsoft Planetary Computer. (n.d.). *Landsat Collection 2 Level-2*. Accessed November 20, 2025, from https://planetarycomputer.microsoft.com/dataset/landsat-c2-l2
+
+
+[5] NASA Earth Observatory. (2025, January 16) *The Palisades Fire’s Footprint.*. NASA Earth Observatory. Accessed November 21, 2025, from, 
 https://earthobservatory.nasa.gov/images/153831/the-palisades-fires-footprint?
 
 
-[5] Neuman, S. (2025, January 8). *What are the Santa Ana winds, and how are they impacting the LA wildfires?*. NPR. Accessed November 21, 2025, from 
+[6] Neuman, S. (2025, January 8). *What are the Santa Ana winds, and how are they impacting the LA wildfires?*. NPR. Accessed November 21, 2025, from 
 https://www.npr.org/2025/01/08/nx-s1-5252535/palisades-fire-california-los-angeles-santa-ana-winds
 
 
-[6] Phillips, S. (2025, February). *The Palisades and Eaton Fires: Neighborhood Data and Potential Housing Market Effects.*. UCLA Lewis Center for Regional Policy Studies. Accessed November 21, 2025, from 
+[7] Phillips, S. (2025, February). *The Palisades and Eaton Fires: Neighborhood Data and Potential Housing Market Effects.*. UCLA Lewis Center for Regional Policy Studies. Accessed November 21, 2025, from 
 https://escholarship.org/uc/item/1kg4v5v1
+
